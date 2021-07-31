@@ -4,7 +4,12 @@ Preview: ![](preview.gif)
 
 License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt)
 
-Notes: record a gif using obs, ffmpeg and gifsicle
+**Notes about input-overlay [v4.8](https://github.com/univrsal/input-overlay/releases/tag/v4.8)**: If you are using this version, go edit the zxc-arrows.ini:
+
+1. Rename all `1_` at begin-of-line to `0_`.
+2. Rename all `2_` at begin-of-line to `1_`.
+
+Notes to myself: record a gif using obs, ffmpeg and gifsicle
 
 ```sh
 ffmpeg -y -i a.flv a.mp4
