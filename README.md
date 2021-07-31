@@ -4,6 +4,8 @@ Preview: ![](preview.gif)
 
 License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt)
 
+**Notes about input-overlay [v5.0](https://github.com/univrsal/input-overlay/releases)**: use zxc-arrows.json.
+
 **Notes about input-overlay [v4.8](https://github.com/univrsal/input-overlay/releases/tag/v4.8)**: If you are using this version, go edit the zxc-arrows.ini:
 
 1. Rename all `1_` at begin-of-line to `0_`.
